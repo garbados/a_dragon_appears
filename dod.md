@@ -32,7 +32,7 @@ TODO
 
 TODO
 
-## combat
+## Combat
 
 Combat is physical conflict between two or more sentient parties. 
 
@@ -43,7 +43,7 @@ When combat starts, involved parties pick turn order like this: whoever blurts o
 On each player's turn, they can take up to two actions:
 
 * move: you travel (run, leap, fly, drive, etc) 10 ft + 5 ft per relevant trait.
-* attack: you attempt to harm another character. engage that character in conflict.
+* attack: you attempt to harm another character. Engage that character in conflict.
 * focus: your next action gains +2, unless you're attacked before you can take it. You can focus up to three times, consecutively.
 * defend: you gain +2 to resist the next attack against you.
 * something else: you do something not necessarily combat-related, like picking a lock.
@@ -54,7 +54,7 @@ In game time, each round is about five seconds.
 
 ## Magic
 
-There are many ways to conceive of magic. here are a few:
+There are many ways to conceive of magic. Here are a few:
 
 ### Extramundane
 
@@ -62,7 +62,7 @@ Artisans will can make even the impossible seem effortless.
 
 > You see a trickster holding someone's wallet, but you swear the trickster never even reached for their pocket. Well, maybe they didn't...
 
-As characters grow more powerful in particular traits, they can begin to accomplish the seemingly impossible: forging hot steel without any tools, locking doors that have no locks, conjuring fire from fingers snapping, etc. to the practitioner, these feats may seem as mundane as tying their shoes. But to the unskilled, they are indistinguishable from sorcery.
+As characters grow more powerful in particular traits, they can begin to accomplish the seemingly impossible: forging hot steel without any tools, locking doors that have no locks, conjuring fire from fingers snapping, etc. To the practitioner, these feats may seem as mundane as tying their shoes. But to the unskilled, they are indistinguishable from sorcery.
 
 Extramundane magic requires no special rules; just keep it in mind.
 
@@ -70,7 +70,7 @@ Extramundane magic requires no special rules; just keep it in mind.
 
 Wizards like Merlin evoke through mere will phenomena which confound natural law. This is supernatural magic.
 
-Supernatural magic is based on traits denoted as primarily magical. magical traits are useless for anything except magic and related pursuits (ex: impressing people with magic). In general, denote magical traits as "[purview] Magic".
+Supernatural magic is based on traits denoted as primarily magical. Magical traits are useless for anything except magic and related pursuits (ex: impressing people with magic). In general, denote magical traits as "[purview] Magic".
 
 Casting spells means contesting the spell's difficulty, like so:
 

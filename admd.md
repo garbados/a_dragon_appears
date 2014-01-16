@@ -19,7 +19,7 @@ After an intense story arc, characters can gain a trait reflecting their efforts
 
 You can also spend karma to get traits. (see: karma)
 
-You can have multiple ranks of a trait by acquiring that trait multiple times. when tallying traits, tally the ranks of your traits. All traits start with one rank.
+You can have multiple ranks of a trait by acquiring that trait multiple times. When tallying traits, tally the ranks of your traits. All traits start with one rank.
 
 ## Conflict
 
@@ -74,7 +74,7 @@ When a character's durability hits zero, they go unconscious. When it hits -10, 
 
 When you would win a conflict, you can opt to fail by citing a trait, gaining karma equal to your margin of victory (that is, how many rounds your foe still needed to win to avoid defeat).
 
-> say Jack tries to unlock a door, and succeeds by a margin of 5. however, Sarah wants karma, so they cite Jack's 'Panicky' trait and say he broke his tools trying to unlock the door. The door remains locked, but Jack gains 5 karma.
+> say Jack tries to unlock a door, and succeeds by a margin of 5. However, Sarah wants karma, so they cite Jack's 'Panicky' trait and say he broke his tools trying to unlock the door. The door remains locked, but Jack gains 5 karma.
 
 You can blow points of karma to gain favor in a conflict, like bonus traits that apply only to that conflict.
 
@@ -158,6 +158,6 @@ For tradition's sake, you can also give vampires traits like Hates Garlic or Hat
 
 ## Narrating
 
-Because the game should be fun to watch, follow the rules of "Yes, and": if characters want something, give it to them. If a player wants to try something, let them try it. if doing either would imbalance gameplay, involve complicating circumstances that balance things out. But, where possible, avoid saying No.
+Because the game should be fun to watch, follow the rules of "Yes, and": if characters want something, give it to them. If a player wants to try something, let them try it. If doing either would imbalance gameplay, involve complicating circumstances that balance things out. But, where possible, avoid saying No.
 
 > Sam decides her character, Kay, wants to be king, and spends 10 karma to lay down the fact "Kay is King". The narrator says, OK, but adds that while Kay is indeed the rightful king via complicated rules of lineage, numerous others also hold claim to the throne, and may or may not want Kay dead.
